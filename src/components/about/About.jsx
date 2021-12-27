@@ -1,5 +1,5 @@
 import about from "./about.css";
-import Programming from "../../img/programming.jpg";
+import Programming from "../../img/programming.jpeg";
 import Award from "../../img/award.jpg";
 
 

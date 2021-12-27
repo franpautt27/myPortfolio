@@ -71,9 +71,11 @@
         width: 100%;
     }
     .a-card{
-        height: 30vh;
+        height: 50vh;
+        width: 50%;
 
     }
+    
     .a-card.bg, .a-award{
         display: none;
     }
