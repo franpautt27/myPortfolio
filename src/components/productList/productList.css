@@ -31,5 +31,8 @@
     .pl-texts{
         width: 100%;
     }
+    .pl-title{
+        margin-top: 30px;
+    }
     
 }
