@@ -1,0 +1,28 @@
+{
+    "intro_text1": "Hola! Mi nombre es",
+    "language": "Idioma",
+    "intro_text2": "Diseño y estructuro servicios web para cualquier tipo de negocio, mis enfoques son interfaces front-end, optimización de sitios web y aplicaciones web modernas.",
+    "intro_item1": "Desarrollador Web",
+    "intro_item5": "Python - Flask",
+    "download_button": "Descargar HV",
+    "about": "Sobre mi",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "aboutTitle": "Un poco sobre mi",
+    "aboutText1": "Soy un joven programador bilingue colombiano con enfasis en desarrollo frontend y diseño web. Con habilidades blandas en liderazgo y trabajo en equipo. Continuamente aprendiendo, capacitandome y actualizandome en los últimos temas de la industria.",
+    "aboutText2": "Creo firmemente en que la tecnología y la innovación son el hito de esta nueva decada. El mundo actualmente está evolucionando a un tiempo record y la única manera de adaptar tu negocio de forma rápida es mediante la innovación en sus servicios digitales. Aplicar herramientas como el Marketing digital, el E-commerce, entre otras, hacen posible esta adaptación.",
+    "awardTitle": "5to Puesto LASER PULSE Hackathon edición 2020",
+    "awardText": "En el año 2020 tuve la oportunidad de trabajar con un equipo en la LASER PULSE Hackathon. En la que el principal objetivo de los equipos era diseñar y desplegar una plataforma web de visualización de datos para analizar la situacion laboral de los migrantes Venezolanos en Colombia. Ocupamos el 5to puesto de 30 participantes.",
+    "mymainprojectsTitle": "Mis Principales Proyectos",
+    "mymainprojectstext": "A lo largo de mi carrera he trabajado en varios proyectos con diversos equipos. Esta es una selección de proyectos que ayudaron a pequeñas organizaciones a organizar su información en una manera virtual más efectiva.",
+    "wannaReachMe": "¿Deseas contactarme? Hablemos!",
+    "projectInMind" : "¿Tienes un proyecto en mente pero no sabes como hacerlo realidad? Contactame.",
+    "alwaysAvailable":"Siempre disponible y encantado de guiarte hacia el camino correcto :)",
+    "placeholderName" :"Nombre",
+    "placeholderSubject" :"Asunto",
+    "placeholderEmail": "Correo electrónico",
+    "placeholderMessage": "Mensaje",
+    "labelSubmit" : "Enviar",
+    "thanks":"Gracias por tu mensaje! Responderé lo más pronto posible ;)"
+
+}
