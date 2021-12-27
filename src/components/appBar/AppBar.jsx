@@ -68,7 +68,6 @@ export default function ButtonAppBar(props){
                     width       : '400px',
                     marginLeft  : 'auto',
                     marginRight : 'auto',
-                    visibility :  (window.innerWidth > 768) ? 'visible': 'hidden'
                 }} >
                     <IconButton className={classes.menuButton}>
                         <Link to="home" smooth={true} duration={1000} > <MenuIcon /> </Link>

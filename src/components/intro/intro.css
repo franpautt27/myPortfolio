@@ -103,7 +103,7 @@
     .i{
         flex-direction: column;
         height: 110vh;
-        margin-top:6vh;
+        padding-top: 6vh;
     }
     
     .i-left-wrapper{
