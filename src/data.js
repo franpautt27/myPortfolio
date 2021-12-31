@@ -4,16 +4,16 @@ export const products =[
     {
         id: 1,
         img: "Imagen1",
-        link: "https://github.com/franpautt27/FUVADISProject"
+        link: "https://fuvadisinternacional.org/interfaz/"
     },
     {
         id: 2,
         img: "Imagen2",
-        link: "https://github.com/twls0/grupo17eq9"
+        link: "http://carlos1mb.pythonanywhere.com/login"
     },
     {
         id: 3,
         img: "Imagen3",
-        link: "https://github.com/MisionTIC179/1241_9"
+        link: "https://sleepy-volhard-4ec2e5.netlify.app/"
     }
 ]
